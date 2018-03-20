@@ -12,11 +12,13 @@ This page contains a non-exhaustive list of websites on which you can find conte
 
 
 <div id="add"></div>
+
 ### How to add a website ?
 
 If you want to add a website to this list you can reply to [this thread in the issues tab](https://github.com/101Robotics/Open-Ressources-for-your-SteemSTEM-posts/issues/1) or contact me on the SteemSTEM's Discord (Robotics101).
 
 <div id="db"></div>
+
 ## Open Sciences Databases and Websites			
 
 |Name                      |	Description                             |	Link              |	Licence                   |
@@ -27,6 +29,7 @@ If you want to add a website to this list you can reply to [this thread in the i
 |UNdata (United Nations)   |UNdata is a service of statistical data around the world |http://data.un.org/ |[CC-BY](http://data.un.org/Host.aspx?Content=UNdataUse)|
 
 <div id="pics"></div>
+
 ## Where to find pictures you can use for free ?			
 
 |Name                      |	Description                             |	Link              |	Licence                   |
