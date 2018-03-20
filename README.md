@@ -19,5 +19,5 @@ This page contains a non-exhaustive list of websites on which you can find conte
 | ------------------------ |:----------------------------------------:| :----------------:|:-------------------------:|
 |Pixabay                   |	High quality public domain images       |https://pixabay.com/| CC0 - Public Domain      |
 |Wikipedia Commons         |Repository of free-use media files	|https://commons.wikimedia.org/wiki/Main_Page	|**Depend**|
-|Flickr                    |Image- and video-hosting website	|https://www.flickr.com/	|**Depend**|
+|Flickr                    |Image- and video-hosting website	|https://www.flickr.com/	|**<div title="Use the search filter">DEPEND</div>**|
 |Google Images             |  Image search on the web |https://images.google.com/ | **Depend** |
