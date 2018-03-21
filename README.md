@@ -1,15 +1,15 @@
 # Open Ressources for your SteemSTEM posts
 
-This page contains a non-exhaustive list of websites on which you can find content that you can use for free your SteemSTEM articles.
+This page contains a non-exhaustive list of websites on which you can find content that you can use to illustrate or where you can find informations for your SteemSTEM articles.
 
-**WARNING**: Always check the license used by the author of the content before publishing, in case of doubt contact us on [SteemSTEM discord](https://discord.gg/4bqQt5G) or contact directly the author of the content.
+**WARNING**: Always check the license used by the author of the content before publishing, in case of doubt contact us on [SteemSTEM discord](https://discord.gg/4bqQt5G) or contact directly the author of the content. Most websites can filter your search results by license.
 
 ## Table of Contents :
 
-1. [How to add an item ?](#add)
-2. [Useful links](#useful)
-3. [Open Sciences Databases and Websites](#db)
-4. [Where to find pictures you can use for free ?](#pics)
+1. [**How to add an item ?**](#add)
+2. [**Useful links**](#useful)
+3. [**Open Sciences Databases and Websites**](#db)
+4. [**Where to find pictures you can use for free ?**](#pics)
 
 
 <div id="add"></div>
@@ -41,7 +41,7 @@ If you want to add a website, a page or an software to this list you can reply t
 | ------------------------ |:----------------------------------------:| :----------------:|:-------------------------:|
 |The Open Spectral Database|IR, NMR, MS, UVVis                        |http://osdb.info   |CC0 - Public Domain        |
 |Open Science DB           |Engineering, Medical and Basic Research DB|http://www.opensciencedb.com/ |**Depend**/CC-BY|
-|Google Scholar|Freely accessible web search engine that indexes the full text or metadata of scholarly literature| https://scholar.google.com |**DEPEND**|
+|Google Scholar|web search engine that indexes the full text or metadata of scholarly literature| https://scholar.google.com |**DEPEND**|
 |UNdata (United Nations)   |UNdata is a service of statistical data around the world |http://data.un.org/ |[CC-BY](http://data.un.org/Host.aspx?Content=UNdataUse)|
 
 <div id="pics"></div>
@@ -51,6 +51,6 @@ If you want to add a website, a page or an software to this list you can reply t
 |Name                      |	Description                             |	Link              |	Licence                   |
 | ------------------------ |:----------------------------------------:| :----------------:|:-------------------------:|
 |Pixabay                   |	High quality public domain images       |https://pixabay.com/| CC0 - Public Domain      |
-|Wikipedia Commons         |Repository of free-use media files	|https://commons.wikimedia.org/wiki/Main_Page	|**Depend**|
-|Flickr                    |Image- and video-hosting website	|https://www.flickr.com/	|**<div title="Use the search filter">DEPEND</div>**|
-|Google Images             |  Image search on the web |https://images.google.com/ | **Depend** |
+|Wikipedia Commons         |Repository of free-use media files	|https://commons.wikimedia.org/wiki/Main_Page	|**Check each content**|
+|Flickr                    |Image- and video-hosting website	|https://www.flickr.com/	|**Check each content**|
+|Google Images             |  Image search engine |https://images.google.com/ | **Check each content** |
