@@ -1,4 +1,4 @@
-# Open Ressources for your SteemSTEM posts
+# Ressources for your SteemSTEM posts
 
 This page contains a non-exhaustive list of websites on which you can find content that you can use to illustrate or where you can find informations for your SteemSTEM articles.
 
