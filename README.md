@@ -10,6 +10,7 @@ This page contains a non-exhaustive list of websites on which you can find conte
 2. [**Useful links**](#useful)
 3. [**Open Sciences Databases and Websites**](#db)
 4. [**Where to find pictures you can use for free ?**](#pics)
+5. [**Useful Softwares**](#soft)
 
 
 <div id="add"></div>
@@ -43,6 +44,7 @@ If you want to add a website, a page or an software to this list you can reply t
 |Open Science DB           |Engineering, Medical and Basic Research DB|http://www.opensciencedb.com/ |**Depend**/CC-BY|
 |Google Scholar|web search engine that indexes the full text or metadata of scholarly literature| https://scholar.google.com |**DEPEND**|
 |UNdata (United Nations)   |UNdata is a service of statistical data around the world |http://data.un.org/ |[CC-BY](http://data.un.org/Host.aspx?Content=UNdataUse)|
+|Wikipedia                 |free online encyclopedia, created and edited by volunteers|https://www.wikipedia.org/ | [**Depend**/CC-BY](https://meta.wikimedia.org/wiki/Terms_of_use)|
 
 <div id="pics"></div>
 
@@ -54,3 +56,22 @@ If you want to add a website, a page or an software to this list you can reply t
 |Wikipedia Commons         |Repository of free-use media files	|https://commons.wikimedia.org/wiki/Main_Page	|**Check each content**|
 |Flickr                    |Image- and video-hosting website	|https://www.flickr.com/	|**Check each content**|
 |Google Images             |  Image search engine |https://images.google.com/ | **Check each content** |
+
+
+<div id="soft"></div>
+
+# Usefull Softwares :
+
+|Name                      |	Description                             |	Link              |
+| ------------------------ |:----------------------------------------:| :----------------:|
+|Scilab    | | |
+|LTSpice   | | |
+|Fusion360 | | |
+|LaTex     | | |
+|Gimp      | | |
+|Fritzing  | | |
+|XLPlot    | | |
+|Algodoo   | | |
+|GeoGebra  | | |
+|Inkscape  | | |
+|Audacity  | | |
