@@ -6,20 +6,36 @@ This page contains a non-exhaustive list of websites on which you can find conte
 
 ## Table of Contents :
 
-1. [How to add a website ?](#add)
-2. [Open Sciences Databases and Websites](#db)
-3. [Where to find pictures you can use for free ?](#pics)
+1. [How to add an item ?](#add)
+2. [Useful links](#useful)
+3. [Open Sciences Databases and Websites](#db)
+4. [Where to find pictures you can use for free ?](#pics)
 
 
 <div id="add"></div>
 
-### How to add a website ?
+### How to add an item ?
 
-If you want to add a website to this list you can reply to [this thread in the issues tab](https://github.com/101Robotics/Open-Ressources-for-your-SteemSTEM-posts/issues/1) or contact me on the SteemSTEM's Discord (Robotics101).
+If you want to add a website, a page or an software to this list you can reply to [this thread in the issues tab](https://github.com/101Robotics/Open-Ressources-for-your-SteemSTEM-posts/issues/1) or contact me on the SteemSTEM's Discord (Robotics101).
+
+<dic id="useful"></div>
+
+# Useful links :
+
+|Name                      |	Description                             |	Link              |
+| ------------------------ |:----------------------------------------:| :----------------:|
+| Learn to use Markdown    |Styling your post on Steemit using Markdown|https://steemit.com/steemit/@lourenc/howto-styling-your-post-on-steemit-using-markdown |
+|SteemSTEM Guidlines |Being A Member Of The SteemSTEM Community |https://steemit.com/steemstem/@steemstem/being-a-member-of-the-steemstem-community |
+|Guidelines on copyright|Guidelines on Copyright Standards in SteemSTEM |https://steemit.com/steemstem/@steemstem/guidelines-on-copyright-standards-in-steemstem |
+|SteemSTEM and Cheetah | SteemSTEM and Cheetah |https://steemit.com/steemstem/@steemstem/steemstem-and-cheetah |
+|Rebooting SteemSTEM |  Towards an engaged community on Steem|https://steemit.com/steemstem/@steemstem/rebooting-steemstem-towards-an-engaged-community-on-the-steem-blockchain |
+|SteemSTEM Winter Update| SteemSTEM Winter 2017 - 2018 Update |https://steemit.com/steemstem/@steemstem/steemstem-winter-2017-2018-project-update |
+
+
 
 <div id="db"></div>
 
-## Open Sciences Databases and Websites			
+# Open Sciences Databases and Websites			
 
 |Name                      |	Description                             |	Link              |	Licence                   |
 | ------------------------ |:----------------------------------------:| :----------------:|:-------------------------:|
@@ -30,7 +46,7 @@ If you want to add a website to this list you can reply to [this thread in the i
 
 <div id="pics"></div>
 
-## Where to find pictures you can use for free ?			
+# Where to find pictures you can use for free ?			
 
 |Name                      |	Description                             |	Link              |	Licence                   |
 | ------------------------ |:----------------------------------------:| :----------------:|:-------------------------:|
