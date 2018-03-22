@@ -28,6 +28,7 @@ If you want to add a website, a page or an software to this list you can reply t
 |SteemSTEM Guidlines |Being A Member Of The SteemSTEM Community |https://steemit.com/steemstem/@steemstem/being-a-member-of-the-steemstem-community |
 | Learn to use Markdown    |Styling your post on Steemit using Markdown|https://steemit.com/steemit/@lourenc/howto-styling-your-post-on-steemit-using-markdown |
 |Guidelines on copyright|Guidelines on Copyright Standards in SteemSTEM |https://steemit.com/steemstem/@steemstem/guidelines-on-copyright-standards-in-steemstem |
+|HackMD|Collaborative markdown notes |https://hackmd.io |
 |SteemSTEM and Cheetah | SteemSTEM and Cheetah |https://steemit.com/steemstem/@steemstem/steemstem-and-cheetah |
 |Rebooting SteemSTEM |  Towards an engaged community on Steem|https://steemit.com/steemstem/@steemstem/rebooting-steemstem-towards-an-engaged-community-on-the-steem-blockchain |
 |SteemSTEM Winter Update| SteemSTEM Winter 2017 - 2018 Update |https://steemit.com/steemstem/@steemstem/steemstem-winter-2017-2018-project-update |
@@ -65,13 +66,12 @@ If you want to add a website, a page or an software to this list you can reply t
 |Name                      |	Description                             |	Link              |
 | ------------------------ |:----------------------------------------:| :----------------:|
 |Scilab    | | |
+|Algodoo   | | |
+|GeoGebra  | | |
+|Audacity  | | |
 |LTSpice   | | |
 |Fusion360 | | |
 |LaTex     | | |
 |Gimp      | | |
 |Fritzing  | | |
 |XLPlot    | | |
-|Algodoo   | | |
-|GeoGebra  | | |
-|Inkscape  | | |
-|Audacity  | | |
