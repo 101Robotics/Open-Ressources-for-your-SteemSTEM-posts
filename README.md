@@ -1,6 +1,6 @@
 # Ressources for your SteemSTEM posts
 
-This page contains a non-exhaustive list of websites on which you can find content that you can use to illustrate or where you can find informations for your SteemSTEM articles.
+This page contains a non-exhaustive list of websites on which you can find content that you can use to illustrate or where you can find information for your SteemSTEM articles.
 
 **WARNING**: Always check the license used by the author of the content before publishing, in case of doubt contact us on [SteemSTEM discord](https://discord.gg/4bqQt5G) or contact directly the author of the content. Most websites can filter your search results by license.
 
