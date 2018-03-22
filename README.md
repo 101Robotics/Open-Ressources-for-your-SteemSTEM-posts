@@ -25,7 +25,7 @@ If you want to add a website, a page or an software to this list you can reply t
 
 |Name                      |	Description                             |	Link              |
 | ------------------------ |:----------------------------------------:| :----------------:|
-|SteemSTEM Guidlines |Being A Member Of The SteemSTEM Community |https://steemit.com/steemstem/@steemstem/being-a-member-of-the-steemstem-community |
+|SteemSTEM Guidelines |Being A Member Of The SteemSTEM Community |https://steemit.com/steemstem/@steemstem/being-a-member-of-the-steemstem-community |
 | Learn to use Markdown    |Styling your post on Steemit using Markdown|https://steemit.com/steemit/@lourenc/howto-styling-your-post-on-steemit-using-markdown |
 |Guidelines on copyright|Guidelines on Copyright Standards in SteemSTEM |https://steemit.com/steemstem/@steemstem/guidelines-on-copyright-standards-in-steemstem |
 |HackMD|Collaborative markdown notes |https://hackmd.io |
