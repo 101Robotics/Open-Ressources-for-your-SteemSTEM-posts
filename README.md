@@ -54,7 +54,7 @@ If you want to add a website, a page or an software to this list you can reply t
 |Name                      |	Description                             |	Link              |	Licence                   |
 | ------------------------ |:----------------------------------------:| :----------------:|:-------------------------:|
 |Pixabay                   |	High quality public domain images       |https://pixabay.com/| CC0 - Public Domain      |
-|Wikipedia Commons         |Repository of free-use media files	|https://commons.wikimedia.org/wiki/Main_Page	|**Check each content**|
+|Wikimedia Commons         |Repository of free-use media files	|https://commons.wikimedia.org/wiki/Main_Page	|**Check each content**|
 |Flickr                    |Image- and video-hosting website	|https://www.flickr.com/	|**Check each content**|
 |Google Images             |  Image search engine |https://images.google.com/ | **Check each content** |
 
