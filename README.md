@@ -66,6 +66,7 @@ If you want to add a website, a page or an software to this list you can reply t
 |Name                      |	Description                             |	Link              |
 | ------------------------ |:----------------------------------------:| :----------------:|
 |Scilab    | | |
+|Octave    | | |
 |Algodoo   | | |
 |GeoGebra  | | |
 |Audacity  | | |
