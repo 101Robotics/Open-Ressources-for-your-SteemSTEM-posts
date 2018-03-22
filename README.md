@@ -41,7 +41,7 @@ If you want to add a website, a page or an software to this list you can reply t
 
 |Name                      |	Description                             |	Link              |	Licence                   |
 | ------------------------ |:----------------------------------------:| :----------------:|:-------------------------:|
-|The Open Spectral Database|IR, NMR, MS, UVVis                        |http://osdb.info   |CC0 - Public Domain        |
+|The Open Spectral Database|IR, NMR, MS, and UVVis spectral data      |http://osdb.info   |CC0 - Public Domain        |
 |Open Science DB           |Engineering, Medical and Basic Research DB|http://www.opensciencedb.com/ |**Depend**/CC-BY|
 |Google Scholar|web search engine that indexes the full text or metadata of scholarly literature| https://scholar.google.com |**DEPEND**|
 |UNdata (United Nations)   |UNdata is a service of statistical data around the world |http://data.un.org/ |[CC-BY](http://data.un.org/Host.aspx?Content=UNdataUse)|
