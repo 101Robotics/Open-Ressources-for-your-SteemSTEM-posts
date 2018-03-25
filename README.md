@@ -32,6 +32,8 @@ If you want to add a website, a page or an software to this list you can reply t
 |SteemSTEM and Cheetah | SteemSTEM and Cheetah |https://steemit.com/steemstem/@steemstem/steemstem-and-cheetah |
 |Rebooting SteemSTEM |  Towards an engaged community on Steem|https://steemit.com/steemstem/@steemstem/rebooting-steemstem-towards-an-engaged-community-on-the-steem-blockchain |
 |SteemSTEM Winter Update| SteemSTEM Winter 2017 - 2018 Update |https://steemit.com/steemstem/@steemstem/steemstem-winter-2017-2018-project-update |
+|DeepL|Freely available translation service|https://www.deepl.com/translator |
+|Grammarly|Cloud-based English-language writing-enhancement platform developed|https://grammarly.com/ |
 
 
 
