@@ -1,3 +1,4 @@
+
 # Ressources for your SteemSTEM posts
 
 This page contains a non-exhaustive list of websites on which you can find content that you can use to illustrate or where you can find information for your SteemSTEM articles.
@@ -44,7 +45,7 @@ If you want to add a website, a page or an software to this list you can reply t
 |Name                      |	Description                             |	Link              |	Licence                   |
 | ------------------------ |:----------------------------------------:| :----------------:|:-------------------------:|
 |LOAD                      |Listing of Open Access Databases |http://www.loadb.org/ |**Check each content**|
-|Wikipedia list | List of academic databeses and search engines | https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines |**Check each content**|
+|Wikipedia list | List of academic databases and search engines | https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines |**Check each content**|
 |The Open Spectral Database|IR, NMR, MS, and UVVis spectral data      |http://osdb.info   |CC0 - Public Domain        |
 |Open Science DB           |Engineering, Medical and Basic Research DB|http://www.opensciencedb.com/ |**Depend**/CC-BY|
 |Google Scholar|web search engine that indexes the full text or metadata of scholarly literature| https://scholar.google.com |**DEPEND**|
@@ -61,7 +62,7 @@ If you want to add a website, a page or an software to this list you can reply t
 
 |Name                      |	Description                             |	Link              |	Licence                   |
 | ------------------------ |:----------------------------------------:| :----------------:|:-------------------------:|
-|Pixabay                   |	High quality public domain images       |https://pixabay.com/| CC0 - Public Domain      |
+|Pixabay                   |	High-quality public domain images       |https://pixabay.com/| CC0 - Public Domain      |
 |Wikimedia Commons         |Repository of free-use media files	|https://commons.wikimedia.org/wiki/Main_Page	|**Check each content**|
 |Flickr                    |Image- and video-hosting website	|https://www.flickr.com/	|**Check each content**|
 |Google Images             |  Image search engine |https://images.google.com/ | **Check each content** |
@@ -69,7 +70,7 @@ If you want to add a website, a page or an software to this list you can reply t
 
 <div id="soft"></div>
 
-# Usefull Softwares :
+# Useful Softwares :
 
 |Name                      |	Description                             |	Link              |
 | ------------------------ |:----------------------------------------:| :----------------:|
@@ -84,3 +85,4 @@ If you want to add a website, a page or an software to this list you can reply t
 |Gimp      |Graphics editor used for image retouching and editing, free-form drawing |https://www.gimp.org/ |
 |Fritzing  |CAD software for the design of electronics hardware |http://fritzing.org/home/ |
 |XLPlot    |Simple way to create your graph |http://www.bram.org/xlplot/xlplot.php |
+
