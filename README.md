@@ -1,5 +1,5 @@
 
-# Ressources for your SteemSTEM posts
+# Resources for your SteemSTEM posts
 
 This page is intended to help SteemSTEM authors to find the content they need for their articles, such as images, data, open access scientific studies or online tools and softwares.
 
