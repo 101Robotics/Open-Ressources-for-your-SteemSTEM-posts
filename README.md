@@ -35,6 +35,8 @@ If you want to add a website, a page or an software to this list you can reply t
 |SteemSTEM Winter Update| SteemSTEM Winter 2017 - 2018 Update |https://steemit.com/steemstem/@steemstem/steemstem-winter-2017-2018-project-update |
 |DeepL|Freely available translation service|https://www.deepl.com/translator |
 |Grammarly|Cloud-based English-language writing-enhancement platform developed|https://grammarly.com/ |
+|Markdown tutorials| Extensive Markdown tutorials | [Part 1](https://steemit.com/steemithelp/@katerinaramm/how-to-use-mark-down-style-for-an-appealing-easy-to-read-post-in-steemit) [Part 2](https://steemit.com/steemit/@katerinaramm/markdown-guide-ii-extra-questions-bonus-tip-to-find-the-formatting-of-any-post)|
+|Steemit Guide| |https://steemit.com/steemit/@katerinaramm/steemit-guide-for-beginners |
 
 
 
@@ -55,6 +57,7 @@ If you want to add a website, a page or an software to this list you can reply t
 |DOAJ |Directory of Open Access Journals |https://doaj.org/ | CC-BY-SA except otherwise|
 |PLOS One|peer-reviewed open access scientific journal| http://journals.plos.org/plosone/ | **Check each content**|
 |Scientific Reports | Open Acces Journal by Nature|https://www.nature.com/srep/ | **Check each content**|
+|CNX |Global repository of educational content provided by volunteers |https://cnx.org/ | **Check each content**|
 
 <div id="pics"></div>
 
@@ -74,6 +77,7 @@ If you want to add a website, a page or an software to this list you can reply t
 
 |Name                      |	Description                             |	Link              |
 | ------------------------ |:----------------------------------------:| :----------------:|
+|Markdown Pad 2| full-featured Markdown editor for Windows | http://markdownpad.com/ |
 |Scilab    |Free and open-source numerical computational package |https://www.scilab.org/ |
 |Octave    |High-level programming language, primarily intended for numerical computations |https://www.gnu.org/software/octave/ |
 |Algodoo   |Physics-based 2D sandbox freeware |http://www.algodoo.com/ |
