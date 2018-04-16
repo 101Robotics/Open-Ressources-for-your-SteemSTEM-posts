@@ -36,7 +36,8 @@ If you want to add a website, a page or an software to this list you can reply t
 |DeepL|Freely available translation service|https://www.deepl.com/translator |
 |Grammarly|Cloud-based English-language writing-enhancement platform developed|https://grammarly.com/ |
 |Markdown tutorials| Extensive Markdown tutorials | [Part 1](https://steemit.com/steemithelp/@katerinaramm/how-to-use-mark-down-style-for-an-appealing-easy-to-read-post-in-steemit) [Part 2](https://steemit.com/steemit/@katerinaramm/markdown-guide-ii-extra-questions-bonus-tip-to-find-the-formatting-of-any-post)|
-|Steemit Guide| |https://steemit.com/steemit/@katerinaramm/steemit-guide-for-beginners |
+|Steemit Guide|Steemit guide for beginners |https://steemit.com/steemit/@katerinaramm/steemit-guide-for-beginners |
+|Delegation Guide |What is Steem Power Delegation |https://steemit.com/steemit/@katerinaramm/what-is-steem-power-delegation |
 
 
 
@@ -58,6 +59,7 @@ If you want to add a website, a page or an software to this list you can reply t
 |PLOS One|peer-reviewed open access scientific journal| http://journals.plos.org/plosone/ | **Check each content**|
 |Scientific Reports | Open Acces Journal by Nature|https://www.nature.com/srep/ | **Check each content**|
 |CNX |Global repository of educational content provided by volunteers |https://cnx.org/ | **Check each content**|
+|PDF Drive |Search engine for PDF files |https://www.pdfdrive.net/category/14 |**Check each content**|
 
 <div id="pics"></div>
 
@@ -70,6 +72,7 @@ If you want to add a website, a page or an software to this list you can reply t
 |Flickr                    |Image- and video-hosting website	|https://www.flickr.com/	|**Check each content**|
 |Google Images             |  Image search engine |https://images.google.com/ | **Check each content** |
 |Unsplash |High quality free images and photos |https://unsplash.com/ |[Licence](https://unsplash.com/license) |
+|Pound5 |Download thousands of historic media files for your creative projects |https://www.pond5.com/free |Public Domain|
 
 
 <div id="soft"></div>
