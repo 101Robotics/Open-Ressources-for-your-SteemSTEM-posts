@@ -60,6 +60,7 @@ If you want to add a website, a page or an software to this list you can reply t
 |Scientific Reports | Open Acces Journal by Nature|https://www.nature.com/srep/ | **Check each content**|
 |CNX |Global repository of educational content provided by volunteers |https://cnx.org/ | **Check each content**|
 |PDF Drive |Search engine for PDF files |https://www.pdfdrive.net/category/14 |**Check each content**|
+|MDPI |Publisher of Open Access Journals|http://www.mdpi.com/ |**Check each content**|
 
 <div id="pics"></div>
 
